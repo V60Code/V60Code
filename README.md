@@ -7,7 +7,7 @@
 <br/>
 👨‍💻 I’m currently undergraduate informatics student at UIN Sunan Kalijaga
 <br/>
-📚 I’m currently learning everything about mobile technologies 😅
+📚 I’m currently learning everything about Fullstack😅
 <br/>
 💪🏼 Future Goals: Learn more technologies
 
