@@ -3,7 +3,7 @@
   <p align="center"> 
 </div>
 
-<h2 align="left">My name is Muhammad Alfarizi Habibullah and I'm a Android Developer</h2>
+<h2 align="left">My name is Muhammad Alfarizi Habibullah and I'm a Frontend Devloper</h2>
 <br/>
 👨‍💻 I’m currently undergraduate informatics student at UIN Sunan Kalijaga
 <br/>
